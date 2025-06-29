@@ -20,13 +20,13 @@ git clone https://github.com/Lavanya-Parashar/Twitter_Sentiment_Analyzer.git
 pip install -r requirements.txt
 
 3. Add your API key in .streamlit/secrets.toml (keep this private):
-```toml
+   ```toml
 GEMINI_API_KEY = "your_api_key_here"
 
-	4.	Place your model.pth file in the project folder (not uploaded due to size limits).
-	5.	Run the app:
+5. Place your model.pth file in the project folder (not uploaded due to size limits).
+6.	Run the app:
 
 streamlit run seleniumnew_app.py
 
 ⸻
-📌 Note: model.pth is not included in this repo due to GitHub’s file size limit.
+📌 Note: model.pth is not included in this repo due to GitHub’s file size limit. 
